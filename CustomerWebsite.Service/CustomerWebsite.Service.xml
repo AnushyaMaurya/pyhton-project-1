@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>CustomerWebsite.Service</name>
+    </assembly>
+    <members>
+        <member name="M:CustomerWebsite.Service.Controllers.CustomerInformationController.GetCustomerDetailsByCustomerCategoryName(System.String)">
+            <summary>
+            
+            </summary>
+            <param name="customerCategoryName"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
